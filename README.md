@@ -1,18 +1,17 @@
 # **Elisabeth Leyder**
 
-_" Parfois se sont les personnes que l'on imagine capables de rien qui font des choses que personne n'auraient imaginées. "A. Turing - Imitation Game_
+_" Parfois ce sont les personnes que l'on imagine capables de rien qui font des choses que personne n'auraient imaginées. "A. Turing - Imitation Game_
 
-Une photo (professionnelle) de vous (vous pouvez enregistrer le fichier dans le référentiel à côté du fichier README)
+![Elisabeth Leyder](/EliBb-shw.png)
 
-"Moi, en une phrase" (comme en-tête plus petit)
+## L'impossible est déjà fait, pour les miracles prévoir un délai. 
 
-Un tableau avec la structure suivante :
-
-Anniversaire : jj/mm
-Couleur préférée : ?
-Nourriture favorite: ?
-Ananas sur pizza : Oui/Non (Défi supplémentaire : faites en sorte que cela ressemble à une case à cocher (non) cochée)
-
+--- 
+> Anniversaire : jj/mm
+> Couleur préférée : ?
+> Nourriture favorite: ?
+> Ananas sur pizza : [ ] Oui [x] Non (Défi supplémentaire : faites en sorte que cela ressemble à une case à cocher (non) cochée)
+---
 Loisirs (en-tête plus petit)
 
 Cela devrait contenir une liste à puces de vos passe-temps.
