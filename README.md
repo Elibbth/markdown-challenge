@@ -6,15 +6,13 @@ _" Parfois ce sont les personnes que l'on imagine capables de rien qui font des 
 
 ## L'impossible est déjà fait, pour les miracles prévoir un délai. 
 
---- 
+---   
 
-> Anniversaire : 14/06  
-> Couleur préférée : Vert  
-> Nourriture favorite: Italienne - Asiatique  
-> Ananas sur pizza : - [ ] Oui - [x] Non   
 
-| Anniversaire     | Couleur Préférée  | Nourriture Préférée   | Ananas Pizza |
-|    14/06         |     Vert          |  Italienne, Asiatique | ❌          | 
+| Anniversaire  | Couleur  | Nourriture | Pizza |
+|    :-:    |       :-:      |      :-:      |          :-:        |
+| 14/06 | Vert | Italienne, Asiatique | :x: |
+
 
 ---  
 
