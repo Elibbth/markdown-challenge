@@ -35,7 +35,7 @@ _" Parfois ce sont les personnes que l'on imagine capables de rien qui font des 
 > ##### Joke Time : Qu’est-ce qui est pire qu’un bébé dans une poubelle ?  
 > ##### Un bébé dans deux poubelles.
 > 
-> _**Anecdote** : "Un jour de printemps mes parents ont eu l'idée de se promener au parc de Mariemont. Avec mon frère, on adorait prendre un peu de distance. On prenait toujours quelque mètre d'avance... Il a fini par me devancer, en sautant de colline en colline. À 6 ans, je sautais visiblement moins loin que lui. Ce qui devait arriver arriva, j'ai fini dans la mare et recouverte d'algue."_
+> _**Anecdote** : "Un jour de printemps, mes parents ont eu l'idée de se promener au parc de Mariemont. Avec mon frère, on prenait toujours quelque mètre d'avance... Il a fini par me devancer, en sautant de colline en colline. À 6 ans, je sautais visiblement moins loin que lui. Ce qui devait arriver arriva, j'ai fini dans la mare et recouverte d'algues."_
 >
 > 
 > ###### **Moralité** : Ne pas confondre herbe et vase verte.
