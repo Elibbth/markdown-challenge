@@ -7,10 +7,10 @@ _" Parfois ce sont les personnes que l'on imagine capables de rien qui font des 
 ## L'impossible est déjà fait, pour les miracles prévoir un délai. 
 
 --- 
-> Anniversaire : jj/mm
-> Couleur préférée : ?
-> Nourriture favorite: ?
-> Ananas sur pizza : [ ] Oui [x] Non (Défi supplémentaire : faites en sorte que cela ressemble à une case à cocher (non) cochée)
+> Anniversaire : 14/06  
+> Couleur préférée : Vert  
+> Nourriture favorite: Italienne - Asiatique  
+> Ananas sur pizza : - [ ] Oui - [x] Non   
 ---
 Loisirs (en-tête plus petit)
 
