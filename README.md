@@ -30,7 +30,7 @@ _" Parfois ce sont les personnes que l'on imagine capables de rien qui font des 
 > ### Tu peux toujours compter sur moi quand... 
 >
 > - Je pense pouvoir contribuer à réunir, je pense être efficace dans la collaboration entre personne.  
-> - Je peux apporter ma réflexion sur "comment mettre en lumière", en favorisant l'aspect esthétique.  
+> - Je peux apporter ma réflexion sur "comment mettre en lumière", en optimisant l'aspect esthétique.  
 > 
 > ##### Joke Time : Qu’est-ce qui est pire qu’un bébé dans une poubelle ?  
 > ##### Un bébé dans deux poubelles.
