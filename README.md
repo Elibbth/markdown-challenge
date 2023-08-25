@@ -9,7 +9,7 @@ _" Parfois ce sont les personnes que l'on imagine capables de rien qui font des 
 ---   
 
 
-| Anniversaire  | Couleur  | Nourriture | Pizza |
+| Anniversaire  | Couleur  | Nourriture | Ananas surPizza  |
 |    :-:    |       :-:      |      :-:      |          :-:        |
 | 14/06 | Vert | Italienne, Asiatique | :x: |
 
