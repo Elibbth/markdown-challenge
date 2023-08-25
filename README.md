@@ -7,10 +7,15 @@ _" Parfois ce sont les personnes que l'on imagine capables de rien qui font des 
 ## L'impossible est déjà fait, pour les miracles prévoir un délai. 
 
 --- 
+
 > Anniversaire : 14/06  
 > Couleur préférée : Vert  
 > Nourriture favorite: Italienne - Asiatique  
 > Ananas sur pizza : - [ ] Oui - [x] Non   
+
+| Anniversaire     | Couleur Préférée  | Nourriture Préférée   | Ananas Pizza |
+|    14/06         |     Vert          |  Italienne, Asiatique | ❌          | 
+
 ---  
 
 > ### Loisirs   
@@ -37,4 +42,4 @@ _" Parfois ce sont les personnes que l'on imagine capables de rien qui font des 
 > 
 > ###### **Moralité** : Ne pas confondre herbe et vase verte.
 
-> << [**Previeuw**](https://github.com/JustineLeleu/markdown-challenge) **Elisabeth** [**Next**](https://github.com/Pierremarien/markdown-challenge) >>
+> << [**Previeuw**](https://github.com/JustineLeleu/markdown-challenge) | **Elisabeth** |[**Next**](https://github.com/Pierremarien/markdown-challenge) >>
