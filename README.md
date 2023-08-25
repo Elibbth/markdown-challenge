@@ -10,22 +10,28 @@ _" Parfois ce sont les personnes que l'on imagine capables de rien qui font des 
 > Anniversaire : 14/06  
 > Couleur préférée : Vert  
 > Nourriture favorite: Italienne - Asiatique  
-> Ananas sur pizza : - [ ] Oui - [x] Non   
----
-Loisirs (en-tête plus petit)
+> Ananas sur pizza :  - [ ] Oui - [x] Non   
+---  
 
-Cela devrait contenir une liste à puces de vos passe-temps.
-Au moins un élément doit contenir une sous-liste, par exemple si vous aimez les films, faites peut-être une sous-liste de certains films que vous aimez vraiment.
-
-Tu peux toujours compter sur moi quand... (en-tête plus petit)
-
-Dites à vos coéquipiers quelle contribution positive vous apporterez au groupe.
-Cela peut être technique, mettre les gens à l'aise, être un organisateur...
-
-Une histoire drôle (en-tête plus petit)
-
-Racontez une courte histoire drôle sur votre vie.
-
-TL;DR (en-tête encore plus petit, sous une histoire amusante)
+> ### Loisirs   
+> 
+> - Cinéma :   
+    - T. Burton   
+        * Big Fish   
+    - M. Scorcese  
+        * Les Affranchis  
+>
+> 
+> ### Tu peux toujours compter sur moi quand... 
+>
+> - Je pense pouvoir contribuer à réunir, je pense être efficace dans la collaboration entre personne.  
+> - Je peux apporter ma réflexion sur "comment mettre en lumière", en favorisant l'aspect esthétique.  
+> 
+> ##### Qu’est-ce qui est pire qu’un bébé dans une poubelle ?  
+> ##### Un bébé dans deux poubelles.
+> 
+> Racontez une courte histoire drôle sur votre vie.
+> 
+> TL;DR (en-tête encore plus petit, sous une histoire amusante)
 
 Résumez votre histoire amusante en une courte phrase.
